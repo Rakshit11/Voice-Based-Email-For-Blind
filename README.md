@@ -14,10 +14,10 @@
 `Created By : Rakshit Kashyap, Aman Ansari, Shubhendu Sharma, Sayed Unais`
 `Email: 3rakshitkashyap@gmail.com, amanansari21@gmail.com, shubhendusharma099@gmail.com, unaisshah00@gmail.com`
 
-`Project Guide: Prof.Shivam Rawat`
+`Project Guide: Mr Purnendu Prabhat`
 </p>
 
-**Free, Open-Source Emailing System for Blind**
+**Voice Based Emailing System for Blind**
 
 ## About
    The project is a `python-based` application for visually impaired persons using speech to text voice response, thus enabling everyone to control their mail accounts using their voice only and to be able to read,send, and perform all the other useful tasks. The system will prompt the user with voice commands to perform certain action and the user will respond to the same. The main benefit of this system is that the use of mouse is completely eliminated, the user will have to respond through voice only.
@@ -42,13 +42,13 @@
 <details><summary>Windows Installation</summary>
 
 #### Installation with Python3
-   ```C:\Users\sayak>git clone https://github.com/hacky1997/voice-based-email-for-blind.git```
+   ```C:\Users\Rax>git clone https://github.com/hacky1997/voice-based-email-for-blind.git```
    
-   ```C:\Users\sayak>cd voice-based-email-for-blind```
+   ```C:\Users\Rax>cd voice-based-email-for-blind```
    
-   ```C:\Users\sayak>python3 -m pip install -r requirements.txt```
+   ```C:\Users\Rax>python3 -m pip install -r requirements.txt```
    
-   ```C:\Users\sayak>python3 voice_based_email_for_blind.py```
+   ```C:\Users\Rax>python3 voice_based_email_for_blind.py```
  
 </details>
 
@@ -84,7 +84,7 @@
 ## Warning
  This is a **personal** development, please respect its philosophy.
   
-### **Note: I will try to modify this code and will upload the modified version. But due to some personal issue I am not able to complete it.
+### **Note: I will try to modify this copump coinde and will upload the modified version. But due to some personal issue I am not able to complete it.
  
 ## Contribution
    Feel free to open issues or PRs for any problem you may encounter, typos that you see or aspects that are confusing. Contributions are welcome, open an issue or email me if you have something you want to work on.
